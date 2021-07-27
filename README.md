@@ -1,2 +1,3 @@
 # door
-Door file system sdl 3d
+door browser file sdl sdl2 need to be install "sudo apt-get install SDL2"
+
